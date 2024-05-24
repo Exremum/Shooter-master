@@ -1,1 +1,4 @@
-# Shooter-master
+Shooter
+=======
+src - Java source code
+res - resources for game
